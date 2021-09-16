@@ -1,6 +1,0 @@
-                    beta=1                        beta=2    
-
-     g_ampa = 2                                   0.001               
-
-     g_ampa = 6                                   0.003               
-
